@@ -48,10 +48,7 @@ namespace Lab13
         {
             Console.WriteLine("Баскетбольный мяч");
         }
-        void INobBall.Ball()
-        {
-            Console.WriteLine("Тенисный мяч");
-        }
+     
     }
     class Program
     {
